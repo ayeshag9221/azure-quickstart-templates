@@ -6,7 +6,7 @@
          "type": "string",
          "minLength": 1,
          "metadata": {
-            "description": "Name of the hosting plan to use in Azure."
+            "description": "App Service plans represent the collection of physical resources used to host your apps."
          }
       },
       "webSiteName": {
